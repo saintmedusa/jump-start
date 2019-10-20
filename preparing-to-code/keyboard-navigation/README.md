@@ -51,14 +51,16 @@ Fill in the table below with the matching macOS shortcuts, if you don't know the
 
 ## Practice tasks
 1. Use Spotlight to open the finder
-    * What does tab do in finder?
-    * What does shift + tab do in finder?
+    * What does tab do in finder? --- moves through items alphabetically
+    * What does shift + tab do in finder? moves through items reverse-alphabetically
 1. Do the following commands using only the keyboard:
-    1. Open your web browser
-    1. Navigate to adadevelopersacademy.org
-    1. Keeping the Ada browser tab open, open a new tab
-    1. Navigate to google.com
-    1. Navigate back to the Ada tab
-    1. Refresh the web page
-    1. Quit out of the web browser (don't just close the tabs, close the whole application)
+    1. Open your web browser --- command + space > chrome
+    1. Navigate to adadevelopersacademy.org --- command + L > type address
+    1. Keeping the Ada browser tab open, open a new tab --- command + T
+    1. Navigate to google.com --- command + L > type address
+    1. Navigate back to the Ada tab --- control + tab
+    1. Refresh the web page --- command + R
+    1. Quit out of the web browser (don't just close the tabs, close the whole application) --- command + Q
+    
 1. Use Spotlight to open Finder, web browser, system preferences and then switch between all three applications
+command + space >> type, enter >> command + tab
