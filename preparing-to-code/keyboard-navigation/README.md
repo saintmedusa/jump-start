@@ -18,19 +18,19 @@ Fill in the table below with the matching macOS shortcuts, if you don't know the
 
 | What the command does | Mac shortcut |
 | :--- | :--- |
-| Copy | |
-| Paste | |
-| Cut | |
-| Save | |
-| Select | |
-| Undo | |
-| Redo | |
-| Find | |
-| Switch app | |
-| Open spotlight search | |
-| Force quit | |
-| Full-screen screen shot | |
-| User-defined region screen shot | |
+| Copy |command + c |
+| Paste | command + v|
+| Cut | command + x|
+| Save | command + s|
+| Select | return |
+| Undo |command + z |
+| Redo | command + y|
+| Find | command + f|
+| Switch app |command + tab |
+| Open spotlight search |command + space |
+| Force quit |option + command + esc |
+| Full-screen screen shot | shift + command + 3|
+| User-defined region screen shot |shift + command + 4 |
 
 ## macOS overview
 
